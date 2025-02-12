@@ -1,4 +1,7 @@
 # Awesome-Graph-Foundation-Models
+<p align="center">
+    <img src="./Figures/GFM.jpg" width="90%" style="align:center;"/>
+</p>
 
 ## Graph Embedding Foundation Models (GraphEFMs)
 ### GNN-based Models
