@@ -2,6 +2,21 @@
 
 A list of existing efforts on Graph Foundation Models (Graph FMs) based on our survey paper.
 
+## Contents
+
+-[Awesome-Graph-Foundation-Models](#awesome-graph-foundation-models-)
+    -[What is Graph Foundation Model ?](#what-is-graph-foundation-model-)
+    -[Graph Embedding Foundation Models (GraphEFMs)](#graph-embedding-foundation-models-graphefms)
+        -[GNN-based Models](#gnn-based-models)
+        -[Transformer-based Models](#transformer-based-models)
+        -[GNN + Transformer Models](#gnn--transformer-models)
+    -[Graph Predictive Foundation Models (GraphPFMs)](#graph-predictive-foundation-models)
+        -[GNN-based Models](#gnn-based-models-1)
+        -[LLM-based Models](#llm-based-models)
+    -[Graph Generative Models](#graph-generative-foundation-models)
+        -[One-Time Graph Generation](#one-time-graph-generation)
+        -[Graph-related Data Generation](#graph-related-data-generation)
+
 
 
 
@@ -37,7 +52,7 @@ The Graph Predictive Foundation Model is aimed at developing models that can dir
 ## Graph Generative Foundation Models
 Graph Generation Foundation Model emphasizes the ability to generate new graph structures and nodes based on learned patterns from existing graphs.
 <p align="center">
-    <img src="./Figures/GGFM.jpg" height="430" width="420" style="align:center;"/>
+    <img src="./Figures/GGFM.jpg" height="460" width="420" style="align:center;"/>
 </p>
 
 ### One-Time Graph Generation
