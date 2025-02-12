@@ -45,7 +45,7 @@ GraphEmbedding Foundation Model focuses on learning representations of graph str
 - (**ICLR'21**) Large-Scale Representation Learning on Graphs via Bootstrapping [[paper](https://arxiv.org/abs/2102.06514)][[code](https://github.com/Namkyeong/BGRL_Pytorch)]
 - (**WWW'21**) Graph contrastive learning with adaptive augmentation [[paper](https://arxiv.org/abs/2010.14945)][[code](https://github.com/CRIPAC-DIG/GCA)]
 - (**AAAI'22**) Augmentation-free self-supervised learning on graphs [[paper](https://arxiv.org/abs/2112.02472)][[code](https://github.com/Namkyeong/AFGRL)]
-- (**KBS'22**) Graph Barlow Twins: A self-supervised representation learning framework for graphs [[paper](https://arxiv.org/abs/2106.02466)][[code](https://github.com/pbielak/graph-barlow-twins)]
+- (**Knowledge-Based Systems 2022**) Graph Barlow Twins: A self-supervised representation learning framework for graphs [[paper](https://arxiv.org/abs/2106.02466)][[code](https://github.com/pbielak/graph-barlow-twins)]
 - (**KDD'22**) GraphMAE: Self-Supervised Masked Graph Autoencoders [[paper](https://arxiv.org/abs/2205.10803)][[code](https://github.com/THUDM/GraphMAE)]
 - (**WSDM'23**) S2GAE: Self-Supervised Graph Autoencoders are Generalizable Learners with Graph Masking [[paper](https://dl.acm.org/doi/10.1145/3539597.3570404)][[code](https://github.com/qiaoyu-tan/S2GAE)]
 - (**WWW'23**) GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner [[paper](https://arxiv.org/abs/2304.04779)][[code](https://github.com/THUDM/GraphMAE2)]
