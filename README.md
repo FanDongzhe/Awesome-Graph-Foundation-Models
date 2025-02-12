@@ -4,18 +4,21 @@ A list of existing efforts on Graph Foundation Models (Graph FMs) based on our s
 
 ## Contents
 
--[Awesome-Graph-Foundation-Models](#awesome-graph-foundation-models-)
-    -[What is Graph Foundation Model ?](#what-is-graph-foundation-model-)
-    -[Graph Embedding Foundation Models (GraphEFMs)](#graph-embedding-foundation-models-graphefms)
-        -[GNN-based Models](#gnn-based-models)
-        -[Transformer-based Models](#transformer-based-models)
-        -[GNN + Transformer Models](#gnn--transformer-models)
-    -[Graph Predictive Foundation Models (GraphPFMs)](#graph-predictive-foundation-models)
-        -[GNN-based Models](#gnn-based-models-1)
-        -[LLM-based Models](#llm-based-models)
-    -[Graph Generative Models](#graph-generative-foundation-models)
-        -[One-Time Graph Generation](#one-time-graph-generation)
-        -[Graph-related Data Generation](#graph-related-data-generation)
+- [Awesome-Graph-Foundation-Models ](#awesome-graph-foundation-models-)
+  - [Contents](#contents)
+  - [What is Graph Foundation Model ?](#what-is-graph-foundation-model-)
+  - [Graph Embedding Foundation Models (GraphEFMs)](#graph-embedding-foundation-models-graphefms)
+    - [GNN-based Models](#gnn-based-models)
+    - [Transformer-based Models](#transformer-based-models)
+    - [GNN + Transformer Models](#gnn--transformer-models)
+  - [Graph Predictive Foundation Models](#graph-predictive-foundation-models)
+    - [GNN-based Models](#gnn-based-models-1)
+    - [LLM-based Models](#llm-based-models)
+  - [Graph Generative Foundation Models](#graph-generative-foundation-models)
+    - [One-Time Graph Generation](#one-time-graph-generation)
+    - [Graph-related Data Generation](#graph-related-data-generation)
+  - [Citation](#citation)
+
 
 
 
@@ -33,10 +36,15 @@ Graph Foundation Models (Graph FMs) are AI models trained on vast datasets, ofte
 GraphEmbedding Foundation Model focuses on learning representations of graph structures and nodes. These embeddings capture essential patterns and relationships within the graph, enabling efficient use in downstream tasks such as clustering, classification, or link prediction. 
 
 <p align="center">
-    <img src="./Figures/GEFM.jpg" height="440" width="400" style="align:center;"/>
+    <img src="./Figures/GEFM.jpg" height="480" width="380" style="align:center;"/>
 </p>
 
 ### GNN-based Models
+-(**NeurIPS'20**) Graph contrastive learning with augmentations [[paper](https://arxiv.org/abs/2010.13902)][[code](https://github.com/Shen-Lab/GraphCL)]
+-(**ICLR'21**) Large-Scale Representation Learning on Graphs via Bootstrapping [[paper](https://arxiv.org/abs/2102.06514)][[code](https://github.com/Namkyeong/BGRL_Pytorch)]
+-(**WWW'21**) Graph contrastive learning with adaptive augmentation [[paper](https://arxiv.org/abs/2010.14945)][[code](https://github.com/CRIPAC-DIG/GCA)]
+-(**AAAI'22**)Augmentation-free self-supervised learning on graphs [[paper](https://arxiv.org/abs/2112.02472)][[code](https://github.com/Namkyeong/AFGRL)]
+-(**KDD'24**) Gaugllm: Improving graph contrastive learning for text-attributed graphs with large language models [[paper](https://arxiv.org/abs/2406.11945)][[code](https://github.com/NYUSHCS/GAugLLM)]
 ### Transformer-based Models
 ### GNN + Transformer Models
 
@@ -52,8 +60,10 @@ The Graph Predictive Foundation Model is aimed at developing models that can dir
 ## Graph Generative Foundation Models
 Graph Generation Foundation Model emphasizes the ability to generate new graph structures and nodes based on learned patterns from existing graphs.
 <p align="center">
-    <img src="./Figures/GGFM.jpg" height="460" width="420" style="align:center;"/>
+    <img src="./Figures/GGFM.jpg" height="460" width="390" style="align:center;"/>
 </p>
 
 ### One-Time Graph Generation
 ### Graph-related Data Generation
+
+## Citation
