@@ -1,6 +1,8 @@
 # Awesome-Graph-Foundation-Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A list of existing efforts on Graph Foundation Models (Graph FMs) based on our survey paper.
+A list of existing efforts on Graph Foundation Models (Graph FMs) based on our survey [paper]().
+
+**If you find our survey and resource helpful for your research, please cite this paper in [Citation](#citation).**
 
 ## Contents
 
