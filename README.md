@@ -89,9 +89,10 @@ The Graph Predictive Foundation Model is aimed at developing models that can dir
 - (*KDD'23*) All in One: Multi-task Prompting for Graph Neural Networks [[paper](https://arxiv.org/abs/2307.01504)][[code](https://github.com/sheldonresearch/ProG)]
 - (*NeurIPS'23*) Universal prompt tuning for graph neural networks [[paper](https://arxiv.org/pdf/2209.15240)] [[code](https://github.com/zjunet/GPF)]
 - (*ICLR'24*) One for All: Towards Training One Graph Model for All Classification Tasks [[paper](https://arxiv.org/abs/2310.00149)][[code](https://github.com/LechengKong/OneForAll)]
+- (*KDD'24*) All in One and One for All: A Simple yet Effective Method towards Cross-domain Graph Pretraining [[paper](https://arxiv.org/abs/2402.09834)][[code](https://github.com/cshhzhao/gcope)]
 ### LLM-based Models
 - (*KDD'24*) Pre-Training and Prompting for Few-Shot Node Classification on Text-Attributed Graphs [[paper](https://arxiv.org/abs/2407.15431)][[code](https://github.com/THUDM/P2TAG)]
-- (*KDD'24*) All in One and One for All: A Simple yet Effective Method towards Cross-domain Graph Pretraining [[paper](https://arxiv.org/abs/2402.09834)][[code](https://github.com/cshhzhao/gcope)]
+
 
 ## Graph Generative Foundation Models
 Graph Generation Foundation Model emphasizes the ability to generate new graph structures and nodes based on learned patterns from existing graphs.
